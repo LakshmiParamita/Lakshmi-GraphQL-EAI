@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "graphql-http": "^1.22.4",
+    "postcss": "^8.5.3",
+    "ruru": "^2.0.0-beta.22",
+    "tailwindcss": "^4.1.5"
+  }
+}
